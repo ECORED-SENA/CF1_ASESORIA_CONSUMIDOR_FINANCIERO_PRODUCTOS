@@ -410,7 +410,7 @@
           p.fw-bold Ejemplo aplicado
           <br>
           <br>
-          p una persona desarrolla una actividad de confección desde su vivienda y comercializa sus productos directamente y a través de redes sociales. Sus ingresos cambian de acuerdo con los pedidos y las temporadas, utiliza una libreta para registrar las ventas y realiza parte de las compras de materiales en efectivo. Además, no dispone de estados financieros formales.
+          p Una persona desarrolla una actividad de confección desde su vivienda y comercializa sus productos directamente y a través de redes sociales. Sus ingresos cambian de acuerdo con los pedidos y las temporadas, utiliza una libreta para registrar las ventas y realiza parte de las compras de materiales en efectivo. Además, no dispone de estados financieros formales.
           <br>
           <br>
           p La atención dentro del segmento microfinanciero requiere reconocer estas condiciones antes de orientar cualquier producto. Se debe identificar cómo funciona la actividad, cuál es la periodicidad de los pedidos, qué información existe sobre ingresos y gastos, qué canales utiliza y cuáles son sus necesidades financieras reales. Este conocimiento permite caracterizar adecuadamente al cliente y preparar la información que posteriormente será utilizada en los procesos de selección y análisis establecidos por la entidad.

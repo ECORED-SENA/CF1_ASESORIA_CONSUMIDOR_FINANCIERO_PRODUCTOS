@@ -335,24 +335,107 @@
             figure.mb-0.w-100
               img.h-100.w-100(src='@/assets/curso/temas/t5/img-podcast.png' alt='' style="object-fit: cover;")
       //- Fin Podcast
-
-
-
       Separador
       //- Inicio Tema5.5
       .row
         #t_5_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 5.5 Permanencia del cliente en la organización
-
-
-
+      p(data-aos="fade-left") La permanencia se relaciona con la continuidad voluntaria y sostenible del cliente dentro de la organización. Esta relación puede mantenerse incluso durante periodos sin crédito y dar lugar al uso de otros productos o a nuevas operaciones cuando exista una necesidad identificada y las condiciones permitan asumirla responsablemente.
+      //- Título nivel 3 - Imagen
+      .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Seguimiento de la relación
+      //- Título nivel 3 - Imagen
+      p.p-4.bg-color-3(data-aos="fade-left") El seguimiento posterior al desembolso permite mantener contacto con el cliente, atender inquietudes e identificar cambios o dificultades que puedan afectar el cumplimiento. El Manual metodológico para microcrédito rural de Asomicrofinanzas relaciona el seguimiento y control con la verificación de obligaciones, la presencia institucional y la posibilidad de considerar posteriormente procesos de renovación cuando correspondan (Quintero de Rivas, 2016).
+      p(data-aos="fade-left") Los siguientes factores permiten relacionar diferentes aspectos de la gestión con la continuidad del cliente en la organización:
+      .row.bg-fondo-2(data-aos="fade-right")
+        .col-12
+          .pt-3.pb-5.px-5
+            //- Inicio Tabla
+            .row.justify-content-center.mb-5(data-aos="fade-right")
+              .col-md-10.col-lg-8
+                .titulo-sexto.color-acento-contenido.mb-3
+                  h5 Tabla 14.
+                  span Factores asociados con la permanencia del cliente
+                .tabla-a
+                  table
+                    thead
+                      tr
+                        th(style="width: 30%") Factor
+                        th(style="width: 70%") Relación con la permanencia
+                    tbody
+                      tr
+                        td Calidad de la atención
+                        td Influye en la experiencia durante toda la relación.
+                      tr
+                        td Claridad de las condiciones
+                        td Reduce diferencias entre lo esperado y lo contratado.
+                      tr
+                        td Seguimiento oportuno
+                        td Permite mantener comunicación durante la vigencia de la operación.
+                      tr
+                        td Cumplimiento del cliente
+                        td Favorece la construcción de un historial dentro de la relación.
+                      tr
+                        td Productos pertinentes
+                        td Permite responder a nuevas necesidades cuando corresponda.
+                      tr
+                        td Gestión de dificultades
+                        td Facilita identificar situaciones que requieren atención temprana.
+                      tr
+                        td Confianza
+                        td Se fortalece cuando ambas partes cumplen sus compromisos.
+            //- FinTabla
+      //- Título nivel 3 - Imagen
+      .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Permanencia y gestión responsable
+      //- Título nivel 3 - Imagen
+      .row.mb-5.justify-content-center.align-items-start        
+        .col-12.col-sm-9.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+          figure.mb-0.text-center
+            img.mx-auto.img-fluid(src='@/assets/curso/temas/t5/img12.png', alt='', style="max-width: 800px;")
+        .col-12.col-lg-7(data-aos="fade-left")
+          p.mb-3.bg-color-7.p-4 La permanencia debe gestionarse de acuerdo con las condiciones reales del cliente y no únicamente con los objetivos comerciales. Por ello, es necesario conocer los cambios en la relación con la organización y evitar renovaciones automáticas cuando no exista una necesidad identificada o condiciones suficientes para asumir una nueva obligación.
+          p La gestión responsable requiere comprender la relación con los clientes y orientar las nuevas operaciones según sus condiciones:
+      //- Slideshow
+      .bg-full-width.bg-fondo-slider.mb-5
+        .p-4.p-md-5
+          SlyderA(tipo="b").bg-white.p-4.tarjeta(data-aos="fade-left")
+            .row.align-items-center.p-4.p-md-5
+              .col-lg-5.order-2
+                figure
+                  img(src='@/assets/curso/temas/t5/tarjeta04_1.png')
+              .col-lg-7.order-1.mb-3.mb-lg-0
+                h4 Conocimiento del cliente y del mercado
+                p El seguimiento del mercado y los clientes se apoya en encuestas de satisfacción, salida e impacto y revisiones de la estrategia comercial. Estas herramientas permiten reconocer por qué las personas permanecen, se retiran o modifican su relación con la organización.
+            .row.align-items-center.p-4.p-md-5
+              .col-lg-5.order-2
+                figure
+                  img(src='@/assets/curso/temas/t5/tarjeta04_2.png')
+              .col-lg-7.order-1.mb-3.mb-lg-0
+                h4 Renovación responsable
+                p Renovar automáticamente una obligación únicamente para conservar al cliente dentro de la cartera puede ser contrario a una gestión responsable. Una nueva operación debe responder a una necesidad identificada y a condiciones que permitan asumirla responsablemente.
+      //- Fin Slideshow
+      p(data-aos="fade-left") El siguiente caso permite reconocer cómo puede mantenerse la relación cuando el cliente decide no asumir inmediatamente una nueva financiación:
+      .row.justify-content-center.align-items-stretch.mb-5.g-0(data-aos="fade-right")
+        .col-lg-7.bg-color-3.d-flex.flex-column.justify-content-center.p-4.order-2.order-lg-1
+          p.mb-2.fw-bold Ejemplo aplicado:
+          p Uun cliente ha cumplido oportunamente una obligación utilizada para adquirir herramientas para su negocio. Al aproximarse la finalización del crédito, manifiesta que por el momento no requiere nueva financiación porque desea concentrarse en consolidar la inversión realizada.
+          P Una gestión orientada a la permanencia respeta esa decisión y mantiene disponibles los canales de atención para futuras necesidades. La fidelización no exige colocar inmediatamente una nueva obligación. La relación puede conservarse mediante buen servicio, seguimiento y conocimiento del cliente, de forma que una futura vinculación responda nuevamente a una necesidad real.
+        .col-lg-5.d-flex.order-1.order-lg-2
+          figure.mb-0.w-100.h-100
+            img.h-100.w-100(src='@/assets/curso/temas/t5/img13.png', alt='', style="object-fit: cover;")
+      p(data-aos="fade-left") El analista articula la atención y verificación con el cumplimiento de políticas y metas comerciales. La fidelización exige seguimiento y soluciones pertinentes a las necesidades reales del cliente.
 </template>
 
 <script>
+import podcast1 from '@/assets/curso/temas/audio/podcast.mp3'
 export default {
   name: 'Tema5',
   data: () => ({
-    // variables de vue
+    podcast1,
+    mostrarIndicadorTarjetaAudio: true,
   }),
   mounted() {
     this.$nextTick(() => {
@@ -366,3 +449,4 @@ export default {
 </script>
 
 <style lang="sass"></style>
+

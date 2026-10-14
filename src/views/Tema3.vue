@@ -67,7 +67,7 @@
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Mercado objetivo y oportunidad comercial
       //- Título nivel 3 - Imagen
       .row.mb-5.justify-content-center.align-items-start        
-        .col-12.col-sm-9.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+        .col-12.col-sm-9.col-lg-5.mb-lg-0(data-aos="fade-right")
           figure.mb-0.text-center
             img.mx-auto.img-fluid(src='@/assets/curso/temas/t3/img2.png', alt='', style="max-width: 800px;")
         .col-12.col-lg-7(data-aos="fade-left")
@@ -200,7 +200,7 @@
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Fuentes para identificar posibles clientes
       //- Título nivel 3 - Imagen
-      .row.mb-5.justify-content-center.align-items-start        
+      .row.justify-content-center.align-items-start        
         .col-12.col-sm-9.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
           figure.mb-0.text-center
             img.mx-auto.img-fluid(src='@/assets/curso/temas/t3/img5.png', alt='', style="max-width: 800px;")

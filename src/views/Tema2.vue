@@ -444,7 +444,7 @@
       p(data-aos="fade-left") El siguiente caso permite aplicar los límites de actuación ante solicitudes que exceden las atribuciones asignadas:
       .row.justify-content-center.align-items-stretch.mb-2.g-0(data-aos="fade-right")
         .col-lg-7.bg-color-3.d-flex.flex-column.justify-content-center.p-4.order-2.order-lg-2
-          p.mb-3.fw-bold Ejemplo
+          p.mb-3.fw-bold Ejemplo aplicado:
           p.mb-2 Durante una visita a un pequeño taller, el propietario solicita que se aumente el monto inicialmente contemplado y manifiesta que entregará después algunos documentos faltantes. También pide que se le confirme inmediatamente que el crédito será aprobado.
           p.mb-0 En esta situación, deben explicarse las etapas del proceso y mantenerse las condiciones establecidas por la organización. Si el monto solicitado requiere otro nivel de evaluación, debe tramitarse mediante el procedimiento correspondiente; si existen documentos pendientes, deben obtenerse conforme con los requisitos establecidos; y no debe anunciarse una aprobación hasta que la instancia competente adopte la decisión. Reconocer estos límites protege tanto al cliente como a la organización.
         .col-lg-5.d-flex.order-1.order-lg-1
@@ -525,21 +525,21 @@
               img(src='@/assets/curso/temas/t2/tarjeta06_1.png').w-100
             .p-4
               h4.card-title.text-center.mb-4 Norma
-              p.mb-0 Determina las condiciones obligatorias que deben respetarse.
+              p.mb-0.text-center Determina las condiciones obligatorias que deben respetarse.
         .col-sm-12.col-md-6.col-lg-4.mb-4.d-flex.flex-column
           .tarjeta.p-0.rounded-4.h-100.overflow-hidden.border.shadow.bg-color-6
             figure.mb-0
               img(src='@/assets/curso/temas/t2/tarjeta06_2.png').w-100
             .p-4
               h4.card-title.text-center.mb-4 Política institucional
-              p.mb-0 Establece cómo opera la entidad dentro de esas condiciones.
+              p.mb-0.text-center Establece cómo opera la entidad dentro de esas condiciones.
         .col-sm-12.col-md-6.col-lg-4.mb-4.d-flex.flex-column
           .tarjeta.p-0.rounded-4.h-100.overflow-hidden.border.shadow.bg-color-6
             figure.mb-0
               img(src='@/assets/curso/temas/t2/tarjeta06_3.png').w-100
             .p-4
               h4.card-title.text-center.mb-4 Procedimiento
-              p.mb-0 Define los pasos concretos que deben seguirse.
+              p.mb-0.text-center Define los pasos concretos que deben seguirse.
       //- Fin Tarjetas
       .row.mb-5.justify-content-center.align-items-start        
         .col-12.col-sm-9.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
@@ -548,7 +548,7 @@
         .col-12.col-lg-7(data-aos="fade-left")
           p.mb-3.bg-color-5.p-4 La actuación debe guardar coherencia entre la norma, la política institucional y el procedimiento.
           p El siguiente caso permite aplicar conjuntamente la regulación, las políticas institucionales y los procedimientos durante una solicitud:
-      .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
+      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img13.png')})` }")
         .bloque-texto-g__texto.p-4
