@@ -421,7 +421,7 @@
       .row.justify-content-center.align-items-stretch.mb-5.g-0(data-aos="fade-right")
         .col-lg-7.bg-color-3.d-flex.flex-column.justify-content-center.p-4.order-2.order-lg-1
           p.mb-2.fw-bold Ejemplo aplicado:
-          p Uun cliente ha cumplido oportunamente una obligación utilizada para adquirir herramientas para su negocio. Al aproximarse la finalización del crédito, manifiesta que por el momento no requiere nueva financiación porque desea concentrarse en consolidar la inversión realizada.
+          p Un cliente ha cumplido oportunamente una obligación utilizada para adquirir herramientas para su negocio. Al aproximarse la finalización del crédito, manifiesta que por el momento no requiere nueva financiación porque desea concentrarse en consolidar la inversión realizada.
           P Una gestión orientada a la permanencia respeta esa decisión y mantiene disponibles los canales de atención para futuras necesidades. La fidelización no exige colocar inmediatamente una nueva obligación. La relación puede conservarse mediante buen servicio, seguimiento y conocimiento del cliente, de forma que una futura vinculación responda nuevamente a una necesidad real.
         .col-lg-5.d-flex.order-1.order-lg-2
           figure.mb-0.w-100.h-100
@@ -449,4 +449,3 @@ export default {
 </script>
 
 <style lang="sass"></style>
-

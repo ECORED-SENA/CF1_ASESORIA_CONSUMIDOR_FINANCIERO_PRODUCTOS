@@ -47,7 +47,7 @@
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Supervisión y cumplimiento de la regulación
       //- Título nivel 3 - Imagen
-      p.p-2.bg-color-3(data-aos="fade-left") La Superintendencia Financiera de Colombia inspecciona, vigila y controla las entidades sometidas a su supervisión, y expide instrucciones técnicas que deben cumplir junto con las leyes y los decretos aplicables. El Decreto 2555 de 2010 contiene disposiciones sobre la estructura y las funciones de esta autoridad. Por su parte, la Ley 1328 de 2009 creó un régimen de protección al consumidor financiero, desarrollado mediante instrucciones de la Superintendencia, que comprende la debida diligencia, la información, la atención al consumidor y el Sistema de Atención al Consumidor Financiero (SAC). Así, el cumplimiento normativo también abarca la forma en que se informa, orienta y atiende al cliente. 
+      p.p-2.bg-color-3(data-aos="fade-left") La Superintendencia Financiera de Colombia inspecciona, vigila y controla las entidades sometidas a su supervisión y expide instrucciones técnicas que deben cumplirse junto con las leyes y los decretos aplicables. El Decreto 2555 de 2010 contiene disposiciones sobre la estructura y las funciones de esta autoridad. Por su parte, la Ley 1328 de 2009 creó un régimen de protección al consumidor financiero, desarrollado mediante instrucciones de la Superintendencia, que comprende la debida diligencia, la información, la atención al consumidor y el Sistema de Atención al Consumidor Financiero (SAC). Así, el cumplimiento normativo también abarca la forma en que se informa, a orientar y se atiende al cliente. 
       p(data-aos="fade-left") Los referentes descritos y su aplicación en la gestión microfinanciera se relacionan a continuación:
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
@@ -348,12 +348,12 @@
               h4.card-title.text-center.mb-4 Expectativas de aprobación
               p.mb-0 La información suministrada no debe llevar al cliente a interpretar que la aprobación de la solicitud es automática cuando depende de evaluaciones posteriores.
       //- Fin Tarjetas
+      p.mb-5(data-aos="fade-left") La Circular Básica Jurídica de la Superintendencia Financiera establece reglas específicas sobre información, publicidad y protección del consumidor financiero. Su versión fue reexpedida mediante la Circular Externa 006 de 2025 (Superintendencia Financiera de Colombia, 2025).
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Límites frente al manejo de información personal y crediticia
       //- Título nivel 3 - Imagen
-      p.mb-5(data-aos="fade-left") La Circular Básica Jurídica de la Superintendencia Financiera establece reglas específicas sobre información, publicidad y protección del consumidor financiero. Su versión fue reexpedida mediante la Circular Externa 006 de 2025 (Superintendencia Financiera de Colombia, 2025).
       .row.mb-5.justify-content-center.align-items-start        
         .col-12.col-lg-7(data-aos="fade-left")
           p.mb-3.bg-color-3.p-3 La gestión microfinanciera implica recopilar información personal, económica y, en determinados procesos, financiera y crediticia. Su tratamiento y utilización deben responder a las finalidades permitidas y cumplir las condiciones establecidas por la regulación.
@@ -371,7 +371,7 @@
                   img(src='@/assets/curso/temas/t2/pestana01.png')
               .col-md-6
                 h4 Información personal
-                p La información personal debe recopilarse y utilizarse únicamente conforme con la finalidad y la regulación aplicables. La Ley 1581 de 2012 reconoce los derechos del titular a conocer, actualizar y rectificar sus datos y exige su autorización cuando corresponda (Ley 1581, 2012).
+                p La información personal debe recopilarse y utilizarse únicamente conforme a la finalidad y la regulación aplicables. La Ley 1581 de 2012 reconoce los derechos del titular a conocer, actualizar y rectificar sus datos y exige su autorización cuando corresponda (Ley 1581, 2012).
           .py-3.py-md-4(titulo="Información crediticia")
             .row.align-items-center
               .col-md-6.mb-4.mb-md-0
@@ -387,7 +387,7 @@
                   img(src='@/assets/curso/temas/t2/pestana03.png')
               .col-md-6
                 h4 Documentos del cliente
-                p Los documentos suministrados durante la gestión deben mantenerse bajo condiciones de confidencialidad y manejarse conforme con los controles institucionales establecidos para su custodia.
+                p Los documentos suministrados durante la gestión deben mantenerse bajo condiciones de confidencialidad y manejarse conforme a los controles institucionales establecidos para su custodia.
       //- Cierres Pestanas horizontales
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")

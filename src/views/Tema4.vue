@@ -56,7 +56,7 @@
                     span #[b Actividad económica:] identifica qué produce, comercializa o qué servicio presta.
                   li.d-flex
                     .fas.fa-check-circle.me-3
-                    span #[b Ubicación:] establece el lugar donde desarrolla principalmente la actividad.
+                    span #[b Ubicación:] establece el lugar donde se desarrolla principalmente la actividad.
           .py-3.py-md-4(titulo="Trayectoria y operación")
             .row.align-items-center
               .col-md-6.mb-4.mb-md-0
@@ -240,7 +240,7 @@
           p.mb-2.fw-bold Ejemplo aplicado
           <br>
           <br>
-          p Una propietaria de una tienda manifiesta interés en financiar la compra de una vitrina refrigerada. Durante la orientación pregunta cuánto recibiría, cuál sería la cuota y si puede disponer del dinero de inmediato.
+          p Una propietaria de una tienda manifiesta interés en financiar la compra de una vitrina refrigerada. Durante, la orientación pregunta cuánto recibiría, cuál sería la cuota y si puede disponer del dinero de inmediato.
           <br>
           p La atención adecuada consiste en explicar las características generales del producto, los requisitos y las etapas necesarias antes de definir las condiciones finales. Si todavía no se ha realizado el análisis, no corresponde afirmar cuál será el monto aprobado ni garantizar el desembolso. La orientación clara permite que la persona decida si desea continuar con la solicitud conociendo las condiciones generales del proceso.
       Separador

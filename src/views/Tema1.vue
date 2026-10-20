@@ -159,10 +159,10 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img3.png')})` }")
         .bloque-texto-g__texto.p-4
-          p.mb-2.fw-bold Ejemplo
+          p.mb-2.fw-bold Ejemplo aplicado
           <br>
           <br>
-          p Una persona propietaria de una pequeña tienda solicita financiación para aumentar el inventario antes de una temporada de mayores ventas. Para orientar inicialmente la solicitud no basta con conocer el monto requerido. Es necesario identificar la actividad desarrollada, el destino que tendrán los recursos, la forma en que se generan las ventas y la información disponible sobre el funcionamiento del negocio.
+          p Una persona propietaria de una pequeña tienda solicita financiación para aumentar el inventario antes de una temporada de mayores ventas. Para orientar inicialmente la solicitud, no basta con conocer el monto requerido. Es necesario identificar la actividad desarrollada, el destino que tendrán los recursos, la forma en que se generan las ventas y la información disponible sobre el funcionamiento del negocio.
           <br>
           <br>
           p En este caso, el propósito productivo de la financiación y la relación entre los ingresos del negocio y el pago de la obligación son elementos propios del análisis microcrediticio. Posteriormente, la entidad deberá verificar la información, aplicar sus políticas institucionales y determinar la clasificación y viabilidad de la operación. De esta manera, el microcrédito se comprende como un proceso de financiación asociado directamente con la realidad económica del cliente y no únicamente como un préstamo de bajo monto.
@@ -171,7 +171,7 @@
       .row
         #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.3 Diferencias entre microfinanzas y microcrédito
-      p(data-aos="fade-left") Las microfinanzas y el microcrédito se relacionan, pero tienen alcances distintos. Las primeras comprenden soluciones para diferentes necesidades financieras; el segundo corresponde a una alternativa de financiación dirigida a microempresas. Esta distinción permite reconocer la necesidad de cada cliente y orientar un producto o servicio pertinente.
+      p(data-aos="fade-left") Las microfinanzas y el microcrédito se relacionan, pero tienen alcances distintos. Las primeras comprenden soluciones para diferentes necesidades financieras; la segunda corresponde a una alternativa de financiación dirigida a microempresas. Esta distinción permite reconocer la necesidad de cada cliente y orientar un producto o servicio pertinente.
       Separador
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
@@ -270,7 +270,7 @@
               img(src='@/assets/curso/temas/t1/tarjeta04_3.png').w-100
             .p-4
               h4.card-title.text-center.mb-4 Selección según la necesidad
-              p.mb-0 Banca de las Oportunidades recomienda identificar la necesidad y el uso de los recursos antes de seleccionar un crédito. También se evalúan tasa, plazo y pago (Valderrama Casas, 2021).
+              p.mb-0 Banca de las oportunidades recomienda identificar la necesidad y el uso de los recursos antes de seleccionar un crédito. También se evalúan tasa, plazo y pago (Valderrama Casas, 2021).
       //- Fin Tarjetas
       p.mb-5(data-aos="fade-left") Las necesidades de una pequeña tienda permiten aplicar la relación entre servicios financieros y financiación:
       .row.justify-content-center.align-items-stretch.mb-2.g-0(data-aos="fade-right")
@@ -410,7 +410,7 @@
           p.fw-bold Ejemplo aplicado
           <br>
           <br>
-          p Una persona desarrolla una actividad de confección desde su vivienda y comercializa sus productos directamente y a través de redes sociales. Sus ingresos cambian de acuerdo con los pedidos y las temporadas, utiliza una libreta para registrar las ventas y realiza parte de las compras de materiales en efectivo. Además, no dispone de estados financieros formales.
+          p Una persona desarrolla una actividad de confección desde su vivienda y comercializa sus productos directamente y a través de redes sociales. Sus ingresos cambian de acuerdo con los pedidos y las temporadas; utiliza una libreta para registrar las ventas y realiza parte de las compras de materiales en efectivo. Además, no dispone de estados financieros formales.
           <br>
           <br>
           p La atención dentro del segmento microfinanciero requiere reconocer estas condiciones antes de orientar cualquier producto. Se debe identificar cómo funciona la actividad, cuál es la periodicidad de los pedidos, qué información existe sobre ingresos y gastos, qué canales utiliza y cuáles son sus necesidades financieras reales. Este conocimiento permite caracterizar adecuadamente al cliente y preparar la información que posteriormente será utilizada en los procesos de selección y análisis establecidos por la entidad.
@@ -419,7 +419,7 @@
       .row
         #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.5 Entidades financieras vinculadas al segmento de las microfinanzas
-      p(data-aos="fade-left") En Colombia, distintas entidades y organizaciones atienden necesidades microfinancieras. Antes de orientar a un cliente, se requiere identificar la naturaleza de la institución, los |productos y operaciones que puede ofrecer, sus requisitos de vinculación y la autoridad que la supervisa, cuando corresponda.
+      p(data-aos="fade-left") En Colombia, distintas entidades y organizaciones atienden necesidades microfinancieras. Antes de orientar a un cliente, se requiere identificar la naturaleza de la institución, los productos y operaciones que puede ofrecer, sus requisitos de vinculación y la autoridad que la supervisa, cuando corresponda.
       Separador
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
@@ -508,7 +508,7 @@
           p.mb-2.fw-bold Ejemplo
           <br>
           <br>
-          p Una  persona propietaria de un pequeño negocio busca financiación para adquirir una nevera y aumentar su inventario. Encuentra tres alternativas: un banco que ofrece una línea para pequeños negocios, una cooperativa de ahorro y crédito de la cual podría hacerse asociada y una organización microfinanciera que atiende directamente comerciantes de su zona.
+          p Una  persona propietaria de un pequeño negocio busca financiación para adquirir una nevera y aumentar su inventario. Encuentra tres alternativas: un banco que ofrece una línea para pequeños negocios, una cooperativa de ahorro y crédito de la cual podría hacerse asociada y una organización microfinanciera que atiende directamente a comerciantes de su zona.
           <br>
           <br>
           p Antes de comparar montos o cuotas, debe identificarse la naturaleza de cada institución, el tipo de producto que ofrece, los requisitos de vinculación y la autoridad que la supervisa cuando corresponda. Este reconocimiento permite comprender que diferentes entidades pueden atender una misma necesidad financiera mediante procedimientos y condiciones distintas, y que la orientación adecuada debe partir tanto de la necesidad del cliente como de las características de la institución que presta el servicio.

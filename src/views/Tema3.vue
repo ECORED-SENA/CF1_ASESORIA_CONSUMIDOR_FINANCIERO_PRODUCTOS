@@ -83,7 +83,7 @@
                   img(src='@/assets/curso/temas/t3/tarjeta01_1.png')
               .col-md-6
                 h4 Identificación y priorización de oportunidades
-                p Si una entidad busca atender pequeños comerciantes, resulta más eficiente identificar zonas donde se concentran tiendas, establecimientos de alimentos, talleres u otras actividades compatibles con su segmento que realizar una promoción indiscriminada.
+                p Si una entidad busca atender a pequeños comerciantes, resulta más eficiente identificar zonas donde se concentran tiendas, establecimientos de alimentos, talleres u otras actividades compatibles con su segmento que realizar una promoción indiscriminada.
           .py-3.py-md-4(titulo="Pertenencia al mercado objetivo")
             .row.align-items-center
               .col-md-6.mb-4.mb-md-0
@@ -183,7 +183,7 @@
       .row.justify-content-center.align-items-stretch.mb-2.g-0(data-aos="fade-right")
         .col-lg-7.bg-color-3.d-flex.flex-column.justify-content-center.p-4.order-2.order-lg-1
           p.mb-2.fw-bold Ejemplo aplicado:
-          p Se asigna un sector que comprende varios barrios urbanos y dos centros poblados cercanos. Antes de iniciar la promoción se identifican los corredores comerciales, plazas, talleres, establecimientos de alimentos y vías principales de acceso.
+          p Se asigna un sector que comprende varios barrios urbanos y dos centros poblados cercanos. Antes de iniciar la promoción, se identifican los corredores comerciales, plazas, talleres, establecimientos de alimentos y vías principales de acceso.
           P Con esta información puede organizarse un recorrido que concentre las visitas por zonas y permita registrar los negocios compatibles con el mercado objetivo. De esta manera, la zonificación deja de ser únicamente una división del mapa y se convierte en una herramienta para utilizar mejor el tiempo, conocer el entorno y planear la búsqueda de clientes.
         .col-lg-5.d-flex.order-1.order-lg-2
           figure.mb-0.w-100.h-100
